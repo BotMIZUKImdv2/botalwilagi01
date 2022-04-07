@@ -33,7 +33,7 @@ function pickRandom(list) {
 }
 
 
-global.DeveloperMode = 'false' //Buat Mode True False Moderator
+global.DeveloperMode = 'True' //Buat Mode True False Moderator
 global.linkGC = ['https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'] // ganti jadi group lu
 global.owner = ['6282239202895', '6282239202895' ,'6282239202895','6282239202895','6282239202895', '6282239202895', '6282239202895'] // Put your number here
 global.mods = ['6282239202895'] // Want some help?
